@@ -1,1 +1,24 @@
-[{"anti":[],"silence":[],"antilinks":[],"antiporn":[],"antitrava":[],"blacklist":[],"fake":[],"pt":[],"es":[],"en":[],"nsfw":[],"sticker":[],"welcome":[],"xp":[],"thieves":[],"companions":[]}]
+{
+	"antinumbers": [],
+	"mute": [],
+	"antilinks": [],
+	"antiporn": [],
+	"antitravas": [],
+	"blacklist": [],
+	"fake": [],
+	"nsfw": [],
+	"event": [],
+	"autosticker": [],
+	"goodbye": [],
+	"welcome": [],
+	"rank": [],
+	"safelinks": [],
+	"vips": {},
+	"birthdays": {},
+	"badwords": {},
+	"chatBot_Type": {},
+	"guild": [
+		"COMPANIONS",
+		"THIEVES"
+	]
+}
